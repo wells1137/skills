@@ -1,0 +1,6 @@
+pages/
+trace-index.json
+cases/
+*.pyc
+__pycache__/
+.env
